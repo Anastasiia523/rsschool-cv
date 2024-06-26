@@ -13,4 +13,4 @@ I aspire to master JavaScript to become a more valuable professional and bring m
 I have no programming skills, and this will be my first time learning to code.
 
 ##### English language
-level A2
+level A2 
