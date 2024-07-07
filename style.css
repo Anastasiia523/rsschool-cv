@@ -1,1 +1,117 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-image: url(./assets/img/rr.jpg);
+  font-family: Verdana, sans-serif;
+}
+.header {
+  margin: 0px;
+  padding: 10px;
+  color: #0b0b0b;
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 1px solid #0d0c0c;
+}
+.Personal {
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  border: 1px solid #0d0c0c;
+}
 
+.prof {
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  border: 1px solid #0d0c0c;
+}
+
+.contacts {
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  border: 1px solid #0d0c0c;
+}
+.code {
+  margin: 0px;
+  padding: 10px;
+  color: #0b0b0b;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  border: 1px solid #0d0c0c;
+}
+
+.project {
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  border: 1px solid #0d0c0c;
+}
+.lang {
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  border: 1px solid #0d0c0c;
+}
+.education {
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  border: 1px solid #0d0c0c;
+}
+
+.courses {
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  border: 1px solid #0d0c0c;
+}
+
+.red-link {
+  text-decoration: none;
+  transition: 0.5s;
+}
+.red-link:hover {
+  color: #ad29a0;
+}
+
+.hobby {
+  margin: 0px;
+  padding: 10px;
+  color: #000000;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  border: 1px solid #0d0c0c;
+}
+.red-link {
+  color: rgb(247, 247, 247);
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  width: 50%;
+}
+
+@media (max-width: 500px) {
+  .section {
+    width: 100%;
+  }
+}
