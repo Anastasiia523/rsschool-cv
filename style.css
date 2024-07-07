@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background-image: url('rr.jpg');
+  background-image: url(./assets/img/rr.jpg);
   font-family: Verdana, sans-serif;
 }
 .header {
@@ -115,4 +115,3 @@ body {
     width: 100%;
   }
 }
-
